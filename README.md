@@ -7,7 +7,8 @@
       
 🌱  Some current related courses I am taking are Database Management Systems & Linear Algebra, but I
       have completed classes with topics of: <br>
-      - Data Networks, Web Development (with/without SQL or frameowrk backend), Discrete Math, and Calculus (I & II).
+      - Data Networks, Web Development (with/without SQL or frameowrk backend), Discrete Math, Calculus (I & II), <br> 
+      and more.
       
 💬  Languages/Frameworks/Programs I have learned and used are: <br>
       - HTML, CSS, JavaScript, Python, Java, C, C++  <br>
