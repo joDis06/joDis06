@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Joseph / Jo 
 
-📚  I am a sophomore Computer Science student studying at CUNY Baruch College (grad. Fall 2027) 
+📚  I am a Computer Science student studying at CUNY Baruch College (grad. Fall 2027) 
 
 🔬  I have been taking CS specialized classes since my sophomore year of highschool, and outside of
     formal education, I have been active & learning things in the field since I was a kid.
